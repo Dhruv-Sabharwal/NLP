@@ -1,5 +1,5 @@
 '''
-I have used something similar to the slot approach discussed in class to design this chatbot. There are certain keywords
+I have used the slot approach to design this chatbot. There are certain keywords
 associated with each of the 5 questions. If the query contains all these keywords, then the respective answer is provided.
 If the query does not contain the keywords for any curated question, the chatbot responds with "I can't answer that.
 Please contact the branch." The system tries to take into consideration inputs with misspellings upto edit distance = 2.
