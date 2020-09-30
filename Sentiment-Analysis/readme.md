@@ -22,7 +22,7 @@ Large Movie Review Dataset: available from http://ai.stanford.edu/~amaas/data/se
 ### Results
 Once the model is trained it can be used to find the goodness figures of the classifier on the testing dataset: 
 <ul>
-True Positives: 9678
+<li>True Positives: 9678
 <li>False Positives: 2107 
 <li>True Negatives: 10393 
 <li>False Negatives: 2822 
